@@ -12,7 +12,7 @@
         <TextView
             android:id="@+id/textResumo"
             android:layout_width="match_parent"
-            android:layout_height="320dp"
+            android:layout_height="393dp"
             android:fontFamily="monospace"
             android:textSize="18sp" />
 
